@@ -1,7 +1,7 @@
 # TESAURO
 
 <p align="center">
-  <img src="assets/tesauro-wordmark-v4.png" width="560" alt="TESAURO">
+  <img src="assets/tesauro-wordmark.png" width="560" alt="TESAURO">
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/tesauro-dqn-preview-v1.png" width="960" alt="DQN lesson page, notebook implementation, and experiment result">
+  <img src="assets/tesauro-dqn-preview.png" width="960" alt="DQN lesson page, notebook implementation, and experiment result">
 </p>
 
 TESAURO 是一套面向中文读者的强化学习教学材料。每一章围绕一个明确问题展开：先建立直觉，再给出必要公式，最后用可运行的 notebook 观察结论如何在实验中成立或失效。
