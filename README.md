@@ -17,8 +17,6 @@ TESAURO 是一套面向中文读者的强化学习教学材料。每一章围绕
 
 当前发布的是 **Fundamentals**：一条从多臂老虎机、MDP 和 TD learning 出发，通向 DQN、PPO 与 SAC 的经典深度 model-free RL 主线。
 
-TESAURO 是独立教育项目，与 Gerald Tesauro 或 IBM 没有隶属、合作或背书关系。
-
 ## 如何使用
 
 1. 按下方顺序阅读 PDF，先建立整体的决策与价值学习框架。
